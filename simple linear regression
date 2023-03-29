@@ -1,0 +1,20 @@
+one independent variable and one dependent variable.
+numerical??
+given independent variable and dependent variables 
+
+find error in simple linear regression equation
+1. find mean of both
+2. find slope m=sum(x-X)(y-Y)/(x-X)^2
+3.  find c ,Y=mX+c
+4. y=mx+c with given all y and x 
+5. draw the points you get Yp at given x from(4)
+6. you get regression line:-
+7. given x | Yp-Y |(Yp-Y)^2| y-Y|(y-Y)^2
+find r^2=sum(Yp-Y)^2/sum(y-Y)^2)--------error get
+
+
+
+find simple linear regression equation
+y=a+bx
+b = (N∑XY-(∑X)(∑Y) / (N∑X^2– (∑X)^2) ;
+a = (∑Y – b ∑X) / N
