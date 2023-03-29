@@ -21,3 +21,13 @@ And,
 a = (∑Y – b ∑X) / N
 
 Where N is the total number of observations.
+
+
+What are the types of regression? 
+There are a range of different approaches used in machine learning to perform regression. Different popular algorithms are used to achieve machine learning regression. The different techniques may include different numbers of independent variables or process different types of data. Distinct types of machine learning regression models may also assume a different relationship between the independent and dependent variables. For example, linear regression techniques assume that the relationship is linear, so wouldn’t be effective with datasets with nonlinear relationships.  
+
+Some of the most common regression techniques in machine learning can be grouped into the following types of regression analysis: 
+
+Simple Linear Regression 
+Multiple linear regression 
+Logistic regression 
