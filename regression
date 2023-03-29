@@ -1,0 +1,23 @@
+Define regression?
+Machine Learning Regression is a technique for investigating the relationship between independent variables or features and a dependent variable or outcome. It’s used as a method for predictive modelling in machine learning, in which an algorithm is used to predict continuous outcomes.  
+
+
+define regression line?
+it is used to fit the data with the  best hyperplane which goes through the points.
+A regression line indicates a linear relationship between the dependent variables on the y-axis and the independent variables on the x-axis. The correlation is established by analyzing the data pattern formed by the variables.
+If Y is the dependent variable and X is the independent variable, the Y on X regression line equation is represented as follows:
+ ‘Y = a + bX + ɛ.’
+Y is the dependent variable.
+a is the Y-intercept.
+b is the slope of the regression line.
+X is the independent variable.
+ɛ is the residual (error).
+error=actual-pridicted
+
+b = (N∑XY-(∑X)(∑Y) / (N∑X^2– (∑X)^2) ;
+
+And,
+
+a = (∑Y – b ∑X) / N
+
+Where N is the total number of observations.
