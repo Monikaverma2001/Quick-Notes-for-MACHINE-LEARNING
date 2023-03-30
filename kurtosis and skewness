@@ -18,3 +18,38 @@ RMSE is more sensitive to the examples with the largest difference This is becau
 
 RMSE is more sensitive to ouliers: so the example with the largest error would skew the RMSE. MAE is less sensitive to outliers.
 
+Polynomial functions are functions of single independent variables, in which variables can occur more than once, raised to an integer power, For example, the function given below is a polynomial.
+
+Polynomial functions are the addition of terms consisting of a numerical coefficient multiplied by a unique power of the independent variables.
+
+We generally represent polynomial functions in decreasing order of the power of the variables i.e. from left to right.
+
+Polynomial functions are useful to model various phenomena. In Physics and Chemistry, unique groups of names such as Legendre, Laguerre and Hermite polynomials are the solutions of important issues.
+
+In this article, we will discuss, what is a polynomial function, polynomial functions definition, polynomial functions examples, types of polynomial functions, graphs of polynomial functions etc.
+
+
+Polynomial Function Definition
+Polynomial functions are the most easiest and commonly used mathematical equation. It can be expressed in terms of a polynomial. The polynomial equation is used to represent the polynomial function. Generally, a polynomial is denoted as P(x). The greatest exponent of the variable P(x) is known as the degree of a polynomial. It is important to understand the degree of a polynomial as it describes the behavior of function P(x) when the value of x gets enlarged. The domain of polynomial functions is entirely real numbers (R).
+
+Polynomial function is usually represented in the following way:
+
+ an kn + an-1 kn-1+.…+a2k2 + a1k + a0, then for k ≫ 0 or k ≪ 0, P(k) ≈ an kn.
+
+Hence, the polynomial functions reach power functions for the largest values of their variables.
+
+
+Polynomial Function Examples
+A polynomial function primarily includes positive integers as exponents. We can even carry out different types of mathematical operations such as addition, subtraction, multiplication and division for different polynomial functions.
+
+
+Some of the examples of polynomial functions are given below:
+
+2x² + 3x +1 = 0
+
+4x -5 = 3
+
+6x³ + x² -1 = 0
+
+All the three equations are polynomial functions as all the variables of the above equation have positive integer exponents. Buch some expressions given below are not considered as polynomial equations, as the polynomial includes does not have  negative integer exponents or fraction exponent or division.
+
