@@ -2,7 +2,8 @@ one independent variable and one dependent variable.
 numerical??
 given independent variable and dependent variables 
 
-find error in simple linear regression equation
+numerical type :1 
+find R^2 error in simple linear regression equation
 1. find mean of both
 2. find slope m=sum(x-X)(y-Y)/(x-X)^2
 3.  find c ,Y=mX+c
@@ -13,8 +14,12 @@ find error in simple linear regression equation
 find r^2=sum(Yp-Y)^2/sum(y-Y)^2)--------error get
 
 
-
+numerical type 2:
 find simple linear regression equation
 y=a+bx
-b = (N∑XY-(∑X)(∑Y) / (N∑X^2– (∑X)^2) ;
-a = (∑Y – b ∑X) / N
+b = (N∑XY-(∑X)(∑Y) / (N∑XX– (∑X)(∑X)) ;
+a = (∑Y∑XX – ∑X∑XY) / (N∑XX– (∑X)(∑X));
+
+
+numerical type 3 : missing values :
+folloe numerical type 2 but not include missing sequence after the y=a+bx put the value of x you get missing value y
