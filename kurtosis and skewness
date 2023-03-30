@@ -9,3 +9,7 @@ skewness:degree of symmetry observed in a probabilitly distribution that derives
 types of skewness: +ve -ve
 +ve skewness : mean>median>mode
 -ve skewness : mean<median<mode
+
+The mean absolute error (MAE) is an average of the absolute errors. The MAE units are the same as the predicted target, which is useful for understanding whether the size of the error is of concern or not. The smaller the MAE the better the model’s performance.
+
+Tip: MAE is robust to outliers. If you want a metric that is sensitive to outliers, try mean squared error (MSE).
