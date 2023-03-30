@@ -1,0 +1,11 @@
+kurtosis : the degree of flatness and peakness in a region of curve.
+
+types of curve 
+medium : meto
+low: platy -from normal its flatier
+high :lepto - from normal it's peaker
+
+skewness:degree of symmetry observed in a probabilitly distribution that derives  from symmmetrical normal distributuion . value in Q1 and Q3(quartile)
+types of skewness: +ve -ve
++ve skewness : mean>median>mode
+-ve skewness : mean<median<mode
