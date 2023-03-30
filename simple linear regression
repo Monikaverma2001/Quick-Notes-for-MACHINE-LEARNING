@@ -18,6 +18,7 @@ numerical type 2:
 find simple linear regression equation
 y=a+bx
 b = (N∑XY-(∑X)(∑Y) / (N∑XX– (∑X)(∑X)) ;
+
 a = (∑Y∑XX – ∑X∑XY) / (N∑XX– (∑X)(∑X));
 
 
